@@ -1,5 +1,7 @@
 # Calculating the Limit of Stokesian Settling in Wastewater
 
+[Full Project Link](https://github.com/OlaOlagunju/LOSS_Project/blob/main/Full%20Project%20-%20Calculating%20the%20Limit%20of%20Stokesian%20Settling%20in%20Wastewater.ipynb)
+
 ## Summary
 In wastewater treatment, clarifiers are critical to maintain clear effluent. **The limit of stokesian settling (LOSS) parameter measures the total suspended solids (TSS) concentration at which clarifier failures occur.** LOSS characterizes a wastewater transition from a faster settling or flocculent regime to a slower or hindered regime. A limitation in measurement of LOSS was visual subjectivity. 
 
